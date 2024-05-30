@@ -1,6 +1,6 @@
 
 # Repositório de Estrutura de Dados II - Universidade de Brasília (UnB)
-Bem-vindo ao repositório da disciplina de Estrutura de Dados II do curso de Ciência da Computação da Universidade de Brasília (UnB). Este repositório contém exercícios e implementações de algoritmos relacionados a lógica de programação, estruturas de dados avançadas e algoritmos de ordenação.
+Bem-vindo ao repositório da disciplina de Estrutura de Dados II do curso de Engenharia de Software da Universidade de Brasília (UnB). Este repositório contém exercícios e implementações de algoritmos relacionados a lógica de programação, estruturas de dados avançadas e algoritmos de ordenação.
 
 ## Conteúdo do Repositório
 ### Exercícios de Lógica de Programação e Algoritmos
